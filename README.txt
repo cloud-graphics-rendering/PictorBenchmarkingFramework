@@ -1,5 +1,11 @@
 # cloud3dbench
 Benchmark Infrastructure for cloud graphics rendering:
+It has 4 git repos:
+https://github.com/cloud-graphics-rendering/benchturbovnc-pictor.git
+https://github.com/cloud-graphics-rendering/benchvirtualgl-pictor.git
+https://github.com/cloud-graphics-rendering/benchmarksuite-pictor.git
+https://github.com/cloud-graphics-rendering/aiclients-pictor.git
+
 Run server_setup.sh on server
 Run client_setup.sh on client
 
