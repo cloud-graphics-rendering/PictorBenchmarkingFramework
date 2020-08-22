@@ -14,8 +14,9 @@ rm libjpeg-turbo-official_2.0.0_amd64.deb
 echo "Downloading Benchmarking Platform: benchvirtualgl & benchvnc ..."
 git clone https://github.com/cloud-graphics-rendering/benchvirtualgl-pictor.git
 git clone https://github.com/cloud-graphics-rendering/benchturbovnc-pictor.git
+git clone https://github.com/cloud-graphics-rendering/benchmarksuite-pictor.git
 
-mkdir benchmarksuite && cd benchmarksuite
+cd benchmarksuite-pictor
 export CGR_BENCHMARK_PATH=`pwd`
 echo "-----------Going to download D2, IM, ITP, STK, RE, 0AD ----------"
 echo "Downloading D2 ..."
