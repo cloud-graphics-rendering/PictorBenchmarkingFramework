@@ -15,6 +15,7 @@ echo "Downloading Benchmarking Platform: benchvirtualgl & benchvnc ..."
 git clone https://github.com/cloud-graphics-rendering/benchvirtualgl-pictor.git
 git clone https://github.com/cloud-graphics-rendering/benchturbovnc-pictor.git
 git clone https://github.com/cloud-graphics-rendering/benchmarksuite-pictor.git
+git clone https://github.com/cloud-graphics-rendering/turbovnc-virtualgl-xfce-docker-pictor.git
 
 cd benchmarksuite-pictor
 export CGR_BENCHMARK_PATH=`pwd`
