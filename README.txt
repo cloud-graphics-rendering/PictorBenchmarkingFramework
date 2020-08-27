@@ -31,3 +31,5 @@ PictorBenchmarkingFramework
 	|--client_setup.sh
 	|--README.txt
 
+How to use:
+https://sourceforge.net/p/cloud3d-bench/blog/2020/05/cloud3d-bench/
